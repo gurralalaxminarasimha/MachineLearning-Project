@@ -168,7 +168,7 @@ jupyter notebook
 Open:
 
 ```text
-Lakshmi_code.ipynb
+Laxmi_code.ipynb
 ```
 
 Run all cells from top to bottom.
