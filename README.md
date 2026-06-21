@@ -1,4 +1,4 @@
-# 🌸 Transfer Learning with MobileNetV2 for Flower Image Classification
+# Transfer Learning with MobileNetV2 for Flower Image Classification
 
 ## Project Overview
 
