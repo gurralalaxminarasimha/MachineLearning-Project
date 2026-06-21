@@ -256,7 +256,6 @@ This project follows basic accessibility practices:
 
 This tutorial is suitable for:
 
-* Undergraduate students
 * Machine learning beginners
 * Deep learning learners
 * Computer science coursework
