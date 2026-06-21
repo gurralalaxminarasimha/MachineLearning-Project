@@ -135,28 +135,6 @@ The model then learns to map these visual features to flower categories.
 
 ---
 
-
-## Requirements
-
-Main libraries used:
-
-```text
-tensorflow
-keras
-numpy
-matplotlib
-pathlib
-os
-```
-
-Install all dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## Running the Notebook
 
 Open Jupyter Notebook:
