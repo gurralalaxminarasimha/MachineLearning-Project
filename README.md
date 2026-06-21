@@ -135,22 +135,6 @@ The model then learns to map these visual features to flower categories.
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/MachineLearning-Project.git
-cd MachineLearning-Project
-```
-
-Install required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## Requirements
 
